@@ -16,3 +16,5 @@ https://try.github.io/levels/1/challenges/1
   
 http://supercollider.github.io/development/git-cheat-sheet.html
 
+Lets get started
+https://github.com/rxs5346/TestTogether/blob/master/howToGetStartedWithGit
