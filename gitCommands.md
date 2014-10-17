@@ -26,9 +26,9 @@ are "watching"
 After adding all of the files to be watched, you need to "commit" these files.  This is bascially just saving a version
 of what you have with a specific message of your choosing
 
-    git commit -m "this is my message about what i changed"
+    git commit -m "this is my message about what I changed"
 
-This will "commit" all of the files that i am watching
+This will "commit" all of the files that I am watching
 
 If you would like to "push" all of your files up to the server and overwrite what is there, use this command
 
@@ -66,7 +66,7 @@ creating a remote branch of the data that you are pushing.
 
 (every push to this branch after this inital push is just done with git push)
 
-So as an example of what i usually do after creating the initial project and pushing it to the server i usually do
+So as an example of what i usually do after creating the initial project and pushing it to the server I usually do
 these commands in order...
 
     git branch development (create a branch and call it development)
@@ -74,11 +74,11 @@ these commands in order...
 (make some changes and add some files that need handled)
 
     git add -A (to add all of the files to be watched, or just selected individual files)
-    git commit -m "detailed message) (saving the files and setting a detailed message saying what i changed/fixed so
+    git commit -m "detailed message) (saving the files and setting a detailed message saying what I changed/fixed so
     that other programmers know what you did)
 
     git push --set-upstream origin development
 
 
-These are just a few of the commands tha can be used with Github. Go to the last page to conclude our demo.
+These are just a few of the commands that can be used with Github. Go to the last page to conclude our demo.
 https://github.com/rxs5346/TestTogether/blob/develop/ConclusionFile.md
