@@ -17,8 +17,9 @@ The first thing that you should do after installing and running your terminal wi
 These commands give your terminal your name and  your email address that it logs so that whenever you make changes to a file,
 Github sees and can show that it was you that did it.  
 These commands are as follows (commands taken from https://help.github.com/articles/set-up-git/)
-  git config --global user.name "YOUR NAME"
-  git config --global user.email "YOUR EMAIL ADDRESS"
+
+    git config --global user.name "YOUR NAME"
+    git config --global user.email "YOUR EMAIL ADDRESS"
 
 
 I would reccomend on creating a directory whereever you would like to keep all of your github repositories (projects).
