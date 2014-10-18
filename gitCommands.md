@@ -8,7 +8,7 @@ your machine
 After doing this, say you want to create your project within this directory.  You are free to do so, and after you
 create your project you might want to save what you have so far.
 
-The first command that you would need to think of to do this would be
+The first command that you would need to do this would be
 
     git status
 
@@ -36,7 +36,7 @@ If you would like to "push" all of your files up to the server and overwrite wha
 
 This will push all of your changes up to the server where others can access them.
 
-Those are the most basic commands that you need to do with github to make revision control work, but thats boring to
+Those are the most basic commands that you need to do with Github to make revision control work, but thats boring to
 just have one copy of data on the server, why not increase that. From the start you have a "master" branch where you
 keep your main working project.  
 
@@ -66,7 +66,7 @@ creating a remote branch of the data that you are pushing.
 
 (every push to this branch after this inital push is just done with git push)
 
-So as an example of what i usually do after creating the initial project and pushing it to the server I usually do
+So as an example of what I usually do after creating the initial project and pushing it to the server I usually do
 these commands in order...
 
     git branch development (create a branch and call it development)
@@ -81,4 +81,4 @@ these commands in order...
 
 
 These are just a few of the commands that can be used with Github. Go to the last page to conclude our demo.
-https://github.com/rxs5346/TestTogether/blob/develop/ConclusionFile.md
+https://Github.com/rxs5346/TestTogether/blob/develop/ConclusionFile.md
