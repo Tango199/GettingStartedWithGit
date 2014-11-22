@@ -1,6 +1,8 @@
+# Git Commands
+
 So we've already learned the
 
-    git clone url
+    git clone URL
 
 command, but this command basically just copies all of the files out of the repository and puts them on a local copy on
 your machine
@@ -15,7 +17,7 @@ The first command that you would need to think of to do this would be
 This command gives you the status of files that have been changed within the directory.  At first, all of the files
 will be in red saying that you are not "watching" them yet.  
 
-    git add fileName
+    git add filename
 
 This command adds the files to your "watched" list.  This is setting up so that you can keep versions of files that you
 are "watching"
@@ -23,7 +25,7 @@ are "watching"
     git add -A - adds all of the changed files
     git add * also does this
 
-After adding all of the files to be watched, you need to "commit" these files.  This is bascially just saving a version
+After adding all of the files to be watched, you need to "commit" these files.  This is basically just saving a version
 of what you have with a specific message of your choosing
 
     git commit -m "this is my message about what i changed"
@@ -64,7 +66,7 @@ creating a remote branch of the data that you are pushing.
 
     git push --set-upstream origin branchName
 
-(every push to this branch after this inital push is just done with git push)
+(every push to this branch after this initial push is just done with git push)
 
 So as an example of what i usually do after creating the initial project and pushing it to the server i usually do
 these commands in order...
@@ -80,5 +82,5 @@ these commands in order...
     git push --set-upstream origin development
 
 
-These are just a few of the commands tha can be used with Github. Go to the last page to conclude our demo.
+These are just a few of the commands that can be used with Github. Go to the last page to conclude our demo.
 https://github.com/rxs5346/TestTogether/blob/develop/ConclusionFile.md
